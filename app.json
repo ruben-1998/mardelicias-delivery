@@ -1,0 +1,9 @@
+{
+  "name": "Mardelicias Repartidor",
+  "displayName": "Repartidor Mardelicias",
+  "permissions":[
+    "LOCATION",
+    "ACCESS_COARSE_LOCATION",
+    "ACCESS_FINE_LOCATION"
+  ]
+}
